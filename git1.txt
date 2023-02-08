@@ -1,4 +1,4 @@
 hello there
-we are in 
+we are in the
 git class
 
